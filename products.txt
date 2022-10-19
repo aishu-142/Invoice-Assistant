@@ -1,0 +1,5 @@
+Apple,50,72
+Orange,40,73
+Guava,45,71
+Banana,30,73
+Grape,35,74
